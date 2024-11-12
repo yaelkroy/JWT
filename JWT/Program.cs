@@ -13,10 +13,10 @@ public class Program
 
     private static string GenerateToken()
     {
-        const string clientID = "bfb9842f-99b1-4900-82fa-11fbae311937";
-        const string secret = "c8291a4e-8789-4222-b690-dbbd4f8af98a";
-        const string secretValue = "euI7uFgXHtHytBUOqbcIptFdPhef2GYGG/p1VtUMkJY=";
-        const string username = "demedet";
+        const string clientID = "";
+        const string secret = "";
+        const string secretValue = "";
+        const string username = "";
 
         var tokenHandler = new JwtSecurityTokenHandler();
 
